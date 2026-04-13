@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-dyson",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo Dyson depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-dyson",
+    "bon-de-reduction-dyson",
+    "coupon-dyson",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/dyson.fr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-dyson.git"
+  }
+}
